@@ -1,0 +1,210 @@
+Order ID,Order Date,Product,Qty,Unit Price,Sales Rep,Customer Email
+1001,2025-06-15,Service Plan,3,203.06, Carol Diaz ,  Customer75@Example.com 
+1002,2025-01-30,Widget A,9,$114.98,alice smith,  Customer71@Example.com 
+1003,2025-08-06,Service Plan,1,414.33,dave kim,  Customer7@Example.com 
+1004,04/24/2025,Widget B,n/a,282.20, Carol Diaz ,  Customer72@Example.com 
+1005,04/03/2025,Service Plan,2,294.40,alice smith,  Customer80@Example.com 
+1006,2025/04/16,Gadget Mini,8,USD 342.71, Carol Diaz ,  Customer39@Example.com 
+1007,05/08/2025,Gadget Pro,3,USD 351.81, Carol Diaz ,  Customer58@Example.com 
+1008,2025-05-28,Widget B,10, 489.31 ,BOB JONES,  Customer63@Example.com 
+1009,2025-08-04,Service Plan,1, 480.43 , Carol Diaz ,  Customer45@Example.com 
+1010,2025-09-12,Gadget Pro,10,USD 399.68,alice smith,  Customer8@Example.com 
+1011,not a date,Gadget Mini,10, 495.62 ,alice smith,  Customer60@Example.com 
+1012,2025/07/01,Gadget Pro,3,$308.74,BOB JONES,  Customer51@Example.com 
+1013,2025/07/20,Gadget Pro,8,$49.40,dave kim,  Customer71@Example.com 
+1014,2025/05/23,Widget B,7,492.38,BOB JONES,  Customer20@Example.com 
+1015,04/29/2025,Widget A,4,$15.89,dave kim,  Customer69@Example.com 
+1016,07/09/2025,Service Plan,10,286.94,dave kim,
+1017,2025-07-20,Gadget Mini,7,205.09,BOB JONES,  Customer9@Example.com 
+1018,17-Apr-2025,Widget A,8,89.36,BOB JONES,  Customer69@Example.com 
+1019,2025-02-21,Service Plan,6,USD 310.11,BOB JONES,  Customer33@Example.com 
+1020,2025-06-27,Gadget Mini,10,USD 188.07,dave kim,  Customer62@Example.com 
+1021,09-Jun-2025,Gadget Mini,2,$80.46,alice smith,  Customer27@Example.com 
+1022,2025-09-28,Gadget Pro,6,81.68, Carol Diaz ,  Customer67@Example.com 
+1023,07/07/2025,Service Plan,3, 183.93 ,BOB JONES,  Customer79@Example.com 
+1024,04/10/2025,Gadget Mini,4, 410.16 ,alice smith,  Customer4@Example.com 
+1025,24-May-2025,Gadget Pro,8, 136.73 ,alice smith,  Customer29@Example.com 
+1026,22-Feb-2025,Service Plan,4,239.86,dave kim,  Customer45@Example.com 
+1027,02/13/2025,Widget B,2,USD 454.88, Carol Diaz ,  Customer12@Example.com 
+1028,2025-07-22,Widget B,8,$206.27,alice smith,  Customer20@Example.com 
+1029,2025/08/27,Gadget Pro,3,$309.06,BOB JONES,  Customer3@Example.com 
+1030,01/08/2025,Widget B,2,$267.49,alice smith,  Customer33@Example.com 
+1031,19-Apr-2025,Gadget Mini,5,$255.06,alice smith,  Customer46@Example.com 
+1032,2025/08/23,Service Plan,10,$408.56,BOB JONES,  Customer68@Example.com 
+1033,09/19/2025,Widget B,1,$436.80,BOB JONES,  Customer61@Example.com 
+1034,2025/03/03,Widget A,9,40.19,BOB JONES,  Customer25@Example.com 
+1035,2025/05/22,Widget A,1,USD 387.63, Carol Diaz ,  Customer79@Example.com 
+1036,16-Sep-2025,Service Plan,10,USD 260.44,BOB JONES,  Customer67@Example.com 
+1037,05/13/2025,Widget B,9,USD 446.56,alice smith,  Customer51@Example.com 
+1038,08/15/2025,Widget B,6, 45.47 ,alice smith,  Customer20@Example.com 
+1039,07/07/2025,Widget B,3,133.76,dave kim,  Customer63@Example.com 
+1040,2025/03/25,Gadget Mini,4, 88.95 ,dave kim,  Customer26@Example.com 
+1041,02-Jul-2025,SERVICE PLAN,6,USD 55.07,dave kim,  Customer3@Example.com 
+1042,16-Jul-2025,Widget A,6,263.02,BOB JONES,  Customer14@Example.com 
+1043,02/13/2025,Widget B,5,USD 142.96, Carol Diaz ,  Customer52@Example.com 
+1044,2025/03/18,Widget A,9, 459.47 ,alice smith,  Customer24@Example.com 
+1045,2025-08-06,Gadget Pro,2,141.50,BOB JONES,  Customer9@Example.com 
+1046,16-May-2025,Gadget Mini,2, 231.89 ,BOB JONES,  Customer6@Example.com 
+1047,09/27/2025,Widget B,4,$468.74, Carol Diaz ,  Customer40@Example.com 
+1048,09/29/2025,Widget A,4, 151.78 ,alice smith,  Customer2@Example.com 
+1049,01/10/2025,Widget B,9,USD 279.46,alice smith,  Customer56@Example.com 
+1050,2025/09/11,Gadget Pro,9,$418.12,BOB JONES,  Customer44@Example.com 
+,,,,,,
+1051,12-Apr-2025,Widget B,3,207.89,alice smith,  Customer33@Example.com 
+1052,2025/08/09,Gadget Pro,3,$37.08, Carol Diaz ,  Customer6@Example.com 
+1053,2025/08/24,GADGET PRO,3, 87.03 , Carol Diaz ,  Customer32@Example.com 
+1054,01/18/2025,GADGET MINI,5,116.53,dave kim,  Customer36@Example.com 
+1055,2025-09-15,Widget A,4,$131.35,dave kim,  Customer76@Example.com 
+1056,22-Jan-2025,Widget A,7,$20.99,dave kim,  Customer42@Example.com 
+1057,09/11/2025,SERVICE PLAN,3,USD 148.96,BOB JONES,  Customer68@Example.com 
+1058,2025-09-16,Service Plan,10,$418.28,alice smith,  Customer4@Example.com 
+1059,2025-01-22,Gadget Mini,3,321.55,alice smith,  Customer69@Example.com 
+1060,2025/05/06,Service Plan,8,138.99,alice smith,  Customer61@Example.com 
+1061,05/10/2025,Widget B,2,$423.76,dave kim,  Customer64@Example.com 
+1062,15-Jul-2025,Service Plan,2,$244.23,alice smith,  Customer77@Example.com 
+1063,17-Mar-2025,Widget B,6,134.17,dave kim,  Customer8@Example.com 
+1064,2025-09-06,Gadget Mini,5, 485.56 , Carol Diaz ,  Customer60@Example.com 
+1065,08/27/2025,Widget A,8,USD 385.14,alice smith,  Customer38@Example.com 
+1066,2025/08/23,Gadget Mini,2,$410.93,BOB JONES,  Customer10@Example.com 
+1067,25-Oct-2025,Widget B,2, 79.30 ,alice smith,  Customer47@Example.com 
+1068,2025/04/29,Widget B,8,448.98,dave kim,  Customer58@Example.com 
+1069,2025/07/27,Gadget Pro,5,365.59, Carol Diaz ,  Customer1@Example.com 
+1070,2025-06-16,Widget B,6,420.32, Carol Diaz ,  Customer33@Example.com 
+1071,2025-07-10,Gadget Mini,2, 202.12 ,alice smith,  Customer36@Example.com 
+1072,22-Feb-2025,Widget B,1,$418.15, Carol Diaz ,  Customer56@Example.com 
+1073,19-Sep-2025,Gadget Mini,6,102.83,dave kim,  Customer71@Example.com 
+1074,2025-10-09,Gadget Mini,4,USD 361.87,BOB JONES,  Customer37@Example.com 
+1075,09/06/2025,Gadget Mini,1, 455.92 , Carol Diaz ,  Customer39@Example.com 
+1076,05/11/2025,Service Plan,5,USD 208.63,alice smith,  Customer22@Example.com 
+1077,2025/03/24,Gadget Mini,2, 111.64 ,dave kim,  Customer55@Example.com 
+1078,2025-03-13,Service Plan,9,104.08, Carol Diaz ,  Customer31@Example.com 
+1079,07/08/2025,Gadget Mini,5,USD 405.77,dave kim,  Customer68@Example.com 
+1080,2025-04-18,Service Plan,7, 142.14 ,BOB JONES,  Customer65@Example.com 
+1081,09/28/2025,Gadget Mini,4,USD 55.27, Carol Diaz ,  Customer3@Example.com 
+1082,2025/03/07,Gadget Mini,1,217.92,alice smith,  Customer51@Example.com 
+1083,09/28/2025,Widget B,8,$485.43,BOB JONES,  Customer67@Example.com 
+1084,2025-02-25,WIDGET B,8,$51.56,alice smith,  Customer39@Example.com 
+1085,2025/03/07,Widget A,5,268.31,alice smith,  Customer39@Example.com 
+1086,26-Sep-2025,Service Plan,10,103.73,alice smith,  Customer69@Example.com 
+1087,04-Jun-2025,Widget B,8,USD 146.23,BOB JONES,  Customer71@Example.com 
+1088,07-May-2025,Widget B,1,USD 479.74,dave kim,  Customer11@Example.com 
+1089,12-May-2025,Widget A,4, 336.33 ,dave kim,  Customer47@Example.com 
+1090,22-Jul-2025,Service Plan,4,13.29,BOB JONES,  Customer64@Example.com 
+1091,04/13/2025,Widget B,5, 384.50 , Carol Diaz ,  Customer14@Example.com 
+1092,09/11/2025,Widget A,10,$101.59,dave kim,  Customer7@Example.com 
+1093,04/20/2025,Widget A,1,$486.34,dave kim,  Customer58@Example.com 
+1094,06/10/2025,Widget B,2,USD 497.79,alice smith,  Customer40@Example.com 
+1095,2025/07/13,Widget A,6,491.66, Carol Diaz ,  Customer11@Example.com 
+1096,2025-06-29,Widget B,7,USD 477.25, Carol Diaz ,  Customer40@Example.com 
+1097,2025/08/10,Service Plan,2,USD 34.08,BOB JONES,  Customer42@Example.com 
+1098,2025/07/06,Gadget Mini,8,24.80,dave kim,  Customer5@Example.com 
+1099,2025-08-26,Widget A,2, 402.83 , Carol Diaz ,  Customer35@Example.com 
+1100,21-Jun-2025,Gadget Pro,10,31.30,alice smith,  Customer4@Example.com 
+1101,2025/04/30,Gadget Mini,2, 242.36 ,dave kim,  Customer64@Example.com 
+1102,09-Mar-2025,Widget B,8,$99.45, Carol Diaz ,  Customer41@Example.com 
+1103,2025-08-24,Gadget Mini,6,$393.29,BOB JONES,  Customer53@Example.com 
+1104,03-Feb-2025,Gadget Mini,1,245.54,alice smith,  Customer34@Example.com 
+1105,2025/02/13,Gadget Mini,4,$57.14,BOB JONES,  Customer18@Example.com 
+1106,08/02/2025,Widget A,8, 313.33 , Carol Diaz ,  Customer36@Example.com 
+1107,18-Oct-2025,Widget B,5,$192.38,BOB JONES,  Customer31@Example.com 
+1108,03/20/2025,Gadget Mini,5, 442.36 ,BOB JONES,  Customer65@Example.com 
+1109,2025-09-27,Widget A,4,327.67,alice smith,  Customer61@Example.com 
+1110,2025-04-29,Widget B,8,457.13,alice smith,  Customer25@Example.com 
+1111,26-Oct-2025,Widget B,4,USD 464.85, Carol Diaz ,  Customer1@Example.com 
+1112,24-Feb-2025,Gadget Pro,10, 357.04 ,BOB JONES,  Customer6@Example.com 
+1113,04/15/2025,Gadget Pro,5,USD 28.69, Carol Diaz ,  Customer24@Example.com 
+1114,2025/06/09,Widget A,2,USD 109.46,alice smith,  Customer51@Example.com 
+1115,2025-10-09,Gadget Mini,3, 322.56 ,dave kim,  Customer37@Example.com 
+1116,07-Jun-2025,Gadget Pro,7,USD 476.11,dave kim,  Customer3@Example.com 
+1117,2025/07/06,Widget A,4,USD 201.06,BOB JONES,  Customer55@Example.com 
+1118,28-Feb-2025,Widget B,2,$208.63,alice smith,  Customer7@Example.com 
+1119,2025/10/10,Service Plan,3, 323.28 ,BOB JONES,  Customer19@Example.com 
+1120,06/28/2025,Widget A,5,USD 89.12,dave kim,  Customer26@Example.com 
+1121,2025-06-04,Gadget Mini,3, 419.43 ,alice smith,  Customer78@Example.com 
+1122,07/18/2025,Widget B,2,USD 452.16,BOB JONES,  Customer61@Example.com 
+1123,2025/04/04,Widget B,10,USD 116.66, Carol Diaz ,  Customer16@Example.com 
+1124,03/18/2025,SERVICE PLAN,4,484.67, Carol Diaz ,  Customer16@Example.com 
+1125,19-Jul-2025,Gadget Pro,10,$232.85,dave kim,  Customer50@Example.com 
+1126,07/08/2025,SERVICE PLAN,8,USD 256.24,dave kim,  Customer31@Example.com 
+1127,2025/08/17,Gadget Mini,10,USD 391.41,alice smith,  Customer9@Example.com 
+1128,2025-03-07,Service Plan,6,220.56,alice smith,  Customer17@Example.com 
+1129,2025-02-12,Service Plan,6,USD 390.26,BOB JONES,  Customer4@Example.com 
+1130,2025-02-03,Gadget Mini,10, 367.99 ,BOB JONES,  Customer29@Example.com 
+1131,03-Feb-2025,Service Plan,6, 308.50 ,dave kim,  Customer19@Example.com 
+1132,2025/05/11,Gadget Pro,9,$481.56, Carol Diaz ,  Customer48@Example.com 
+1133,01/19/2025,Gadget Pro,4, 99.04 ,dave kim,  Customer22@Example.com 
+1134,2025-05-16,Gadget Pro,2,USD 385.68,alice smith,  Customer33@Example.com 
+1135,02-Oct-2025,Gadget Pro,7,$370.84, Carol Diaz ,  Customer43@Example.com 
+1136,2025-02-11,Service Plan,8, 122.49 , Carol Diaz ,  Customer75@Example.com 
+1137,06/10/2025,Service Plan,1,USD 375.34,dave kim,  Customer66@Example.com 
+1138,07/06/2025,Widget A,1,74.55,alice smith,  Customer1@Example.com 
+1139,18-Oct-2025,Gadget Mini,6, 158.52 ,BOB JONES,  Customer27@Example.com 
+1140,07/07/2025,Widget B,10,$415.12,dave kim,  Customer13@Example.com 
+1141,02-Feb-2025,Gadget Pro,3,436.06,alice smith,  Customer72@Example.com 
+1142,2025/06/29,Service Plan,10,USD 325.70,BOB JONES,  Customer22@Example.com 
+1143,2025-01-01,Widget B,1,$40.08,alice smith,  Customer14@Example.com 
+1144,01/07/2025,Widget B,10,USD 279.40,BOB JONES,  Customer66@Example.com 
+1145,2025-06-08,Gadget Mini,2,156.82,dave kim,  Customer56@Example.com 
+1146,2025/08/27,Widget A,2, 372.72 ,BOB JONES,  Customer5@Example.com 
+1147,05-Mar-2025,Gadget Pro,6,USD 445.83, Carol Diaz ,  Customer38@Example.com 
+1148,2025-04-22,Widget B,2,$440.34,BOB JONES,  Customer42@Example.com 
+1149,04/09/2025,Service Plan,7,USD 170.66,dave kim,  Customer68@Example.com 
+1150,01/04/2025,Gadget Pro,1,$223.79,dave kim,  Customer80@Example.com 
+1151,10/27/2025,Widget A,2,286.38,alice smith,  Customer80@Example.com 
+1152,2025-03-24,WIDGET B,6,487.95,alice smith,  Customer6@Example.com 
+1153,02/03/2025,Service Plan,10,382.50,dave kim,  Customer14@Example.com 
+1154,2025-05-07,WIDGET A,4, 109.34 ,dave kim,  Customer13@Example.com 
+1155,03/09/2025,Gadget Pro,2,USD 397.27, Carol Diaz ,  Customer3@Example.com 
+1156,2025-06-29,Gadget Pro,5, 464.82 ,dave kim,  Customer37@Example.com 
+1157,2025-01-16,Widget A,7,$25.27,alice smith,  Customer74@Example.com 
+1158,05/28/2025,Widget A,3,223.23, Carol Diaz ,  Customer63@Example.com 
+1159,02/18/2025,Service Plan,8, 349.95 , Carol Diaz ,  Customer74@Example.com 
+1160,03/23/2025,Widget A,5,408.65,dave kim,  Customer72@Example.com 
+1161,2025/02/23,Widget A,6,USD 183.89,alice smith,  Customer48@Example.com 
+1162,04/16/2025,Widget B,5,USD 138.70,BOB JONES,  Customer69@Example.com 
+1163,01/18/2025,Gadget Mini,6, 294.39 ,BOB JONES,  Customer60@Example.com 
+1164,08/13/2025,Widget B,5,$293.21, Carol Diaz ,  Customer39@Example.com 
+1165,21-Mar-2025,Gadget Pro,3,$486.66,BOB JONES,  Customer42@Example.com 
+1166,2025-04-07,Widget A,5,$486.85,dave kim,  Customer20@Example.com 
+1167,2025/03/17,Widget A,5,368.58, Carol Diaz ,  Customer27@Example.com 
+1168,2025/07/18,Gadget Mini,8,$26.58, Carol Diaz ,  Customer60@Example.com 
+1169,2025/01/12,WIDGET B,3,USD 135.77,dave kim,  Customer30@Example.com 
+1170,2025-10-26,Gadget Pro,4, 342.32 ,alice smith,  Customer54@Example.com 
+1171,05/05/2025,Gadget Mini,7,USD 358.73,dave kim,  Customer3@Example.com 
+1172,07/29/2025,Gadget Pro,9,340.19,dave kim,  Customer63@Example.com 
+1173,02/24/2025,Widget B,1, 132.84 ,alice smith,  Customer74@Example.com 
+1174,2025/08/22,Gadget Pro,9, 110.23 ,dave kim,  Customer59@Example.com 
+1175,2025-04-18,Service Plan,3, 201.92 ,alice smith,  Customer33@Example.com 
+1176,2025-05-21,Gadget Mini,7, 205.44 , Carol Diaz ,  Customer14@Example.com 
+1177,04/25/2025,Gadget Mini,5,USD 372.58,BOB JONES,  Customer22@Example.com 
+1178,03/08/2025,Service Plan,2,$405.88,BOB JONES,  Customer46@Example.com 
+1179,07/31/2025,Gadget Mini,8, 497.11 ,BOB JONES,  Customer35@Example.com 
+1180,07/12/2025,Gadget Pro,5, 490.63 ,BOB JONES,  Customer39@Example.com 
+1181,2025-06-14,Gadget Pro,8,$247.12, Carol Diaz ,  Customer50@Example.com 
+1182,30-Jan-2025,Widget B,2, 414.84 ,alice smith,  Customer2@Example.com 
+1183,18-Apr-2025,Service Plan,2,$330.76,BOB JONES,  Customer24@Example.com 
+1184,08/20/2025,Service Plan,6,$393.81,alice smith,  Customer71@Example.com 
+1185,06/02/2025,Gadget Mini,4,251.79,alice smith,  Customer34@Example.com 
+1186,2025/08/03,Widget A,4,USD 414.43,dave kim,  Customer19@Example.com 
+1187,2025-09-09,Gadget Pro,4,USD 253.60,dave kim,  Customer38@Example.com 
+1188,2025-08-27,Gadget Pro,6,218.22,alice smith,  Customer79@Example.com 
+1189,2025-01-24,Gadget Mini,6,$405.40,alice smith,  Customer28@Example.com 
+1190,01-Aug-2025,Service Plan,3,$175.57, Carol Diaz ,  Customer56@Example.com 
+1191,2025-06-25,Gadget Pro,7, 133.01 ,dave kim,  Customer52@Example.com 
+1192,20-Jun-2025,Gadget Mini,9,491.32, Carol Diaz ,  Customer25@Example.com 
+1193,2025-06-12,Widget A,5,USD 72.37,dave kim,  Customer70@Example.com 
+1194,2025-10-21,WIDGET B,1,USD 204.85,alice smith,  Customer65@Example.com 
+1195,10/06/2025,Service Plan,10,193.88,BOB JONES,  Customer6@Example.com 
+1196,08/23/2025,Gadget Mini,3,59.56,alice smith,  Customer48@Example.com 
+1197,13-Mar-2025,Widget B,5,USD 284.86,alice smith,  Customer41@Example.com 
+1198,2025-01-11,Service Plan,7,286.93,alice smith,  Customer54@Example.com 
+1199,2025-10-22,Service Plan,7,$228.32,dave kim,  Customer53@Example.com 
+1200,2025/10/08,Widget B,2,50.54,dave kim,  Customer1@Example.com 
+1003,2025-08-06,Service Plan,1,414.33,dave kim,  Customer7@Example.com 
+1176,2025-05-21,Gadget Mini,7, 205.44 , Carol Diaz ,  Customer14@Example.com 
+1172,07/29/2025,Gadget Pro,9,340.19,dave kim,  Customer63@Example.com 
+1032,2025/08/23,Service Plan,10,$408.56,BOB JONES,  Customer68@Example.com 
+1023,07/07/2025,Service Plan,3, 183.93 ,BOB JONES,  Customer79@Example.com 
+1056,22-Jan-2025,Widget A,7,$20.99,dave kim,  Customer42@Example.com 
+1034,2025/03/03,Widget A,9,40.19,BOB JONES,  Customer25@Example.com 
+1121,2025-06-04,Gadget Mini,3, 419.43 ,alice smith,  Customer78@Example.com 

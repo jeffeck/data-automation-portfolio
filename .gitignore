@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+*.db
+02-etl-pipeline/rejects.csv
+03-web-scraper/books.csv
